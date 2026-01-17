@@ -89,16 +89,11 @@ quiz-app/
 
 **Gemachis Tesfaye**
 
-* GitHub: [https://github.com/gachis](https://github.com/urjiiko1)
+* GitHub: [https://github.com/gemachistesfaye](https://github.com/gemachistesfaye)
 * Field: Information Science Student
 * Focus: JavaScript, Frontend Development, Data Analysis
 
 ---
 
-## 📄 License
-
-MIT License — see the `LICENSE` file for details.
-
----
-
 ⭐ If you find this project useful, give it a star and feel free to contribute!
+
