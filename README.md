@@ -16,7 +16,7 @@ This project focuses on core JavaScript logic, DOM manipulation and responsive U
 
 ---
 
-## 🌐 [Live Demo](https://your-username.github.io/quiz-app)
+## 🌐 [Live Demo](https://gemachistesfaye.github.io/JS-Mastery-315/)
 
 ---
 
@@ -96,4 +96,5 @@ quiz-app/
 ---
 
 ⭐ If you find this project useful, give it a star and feel free to contribute!
+
 
